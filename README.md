@@ -9,5 +9,5 @@ To run the application locally, follow these steps:
 4. Install the dependencies by running:
   npm install
 5. To initiate the development server and render the website, run:
-  npm start
+  npm run dev
 6. Open your browser and go to http://localhost:3000 to view the app.
