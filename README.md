@@ -1,9 +1,7 @@
-# Online Clothing Store
+# Personal Organizer App
 
-E-commerce app with functionalities for browsing clothing, managing a shopping cart, viewing detailed
-product information, and navigating between pages.
+Full-featured note-taking app with functionalities for creating, editing, deleting, tagging and filtering notes.
 
-Getting Started
 To run the application locally, follow these steps:
 1. Ensure you have Node.js installed.
 2. Clone the repository to your local machine.
