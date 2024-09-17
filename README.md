@@ -7,7 +7,11 @@ To run the application locally, follow these steps:
 2. Clone the repository to your local machine.
 3. Navigate to the project directory in your terminal.
 4. Install the dependencies by running:
+  ```bush
   npm install
+  ```
 5. To initiate the development server and render the website, run:
+  ```bush
   npm run dev
+  ```
 6. Open your browser and go to http://localhost:3000 to view the app.
